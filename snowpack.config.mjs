@@ -20,6 +20,7 @@ export default {
     /* ... */
   },
   buildOptions: {
+    out: "docs"
     /* ... */
   },
 };
